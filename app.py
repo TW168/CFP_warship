@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-import googlemaps
+# import googlemaps
 from urllib.parse import urlencode
 import sqlite3
 import re
